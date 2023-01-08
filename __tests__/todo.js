@@ -89,5 +89,3 @@ describe("Todo test suite ", () => {
     expect(parsedUpdateResponse.completed).toBe(true);
   });
 });
-
-
